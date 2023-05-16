@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "shopify.polaris-for-vscode",
+    "styled-components.vscode-styled-components",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
